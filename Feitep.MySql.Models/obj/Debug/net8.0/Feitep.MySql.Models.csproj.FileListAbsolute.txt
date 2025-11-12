@@ -1,0 +1,12 @@
+d:\Git\Feitep\feitep_dotnet_mysql\Feitep.MySql.Models\bin\Debug\net8.0\Feitep.MySql.Models.deps.json
+d:\Git\Feitep\feitep_dotnet_mysql\Feitep.MySql.Models\bin\Debug\net8.0\Feitep.MySql.Models.dll
+d:\Git\Feitep\feitep_dotnet_mysql\Feitep.MySql.Models\bin\Debug\net8.0\Feitep.MySql.Models.pdb
+d:\Git\Feitep\feitep_dotnet_mysql\Feitep.MySql.Models\obj\Debug\net8.0\Feitep.MySql.Models.GeneratedMSBuildEditorConfig.editorconfig
+d:\Git\Feitep\feitep_dotnet_mysql\Feitep.MySql.Models\obj\Debug\net8.0\Feitep.MySql.Models.AssemblyInfoInputs.cache
+d:\Git\Feitep\feitep_dotnet_mysql\Feitep.MySql.Models\obj\Debug\net8.0\Feitep.MySql.Models.AssemblyInfo.cs
+d:\Git\Feitep\feitep_dotnet_mysql\Feitep.MySql.Models\obj\Debug\net8.0\Feitep.MySql.Models.csproj.CoreCompileInputs.cache
+d:\Git\Feitep\feitep_dotnet_mysql\Feitep.MySql.Models\obj\Debug\net8.0\Feitep.MySql.Models.sourcelink.json
+d:\Git\Feitep\feitep_dotnet_mysql\Feitep.MySql.Models\obj\Debug\net8.0\Feitep.MySql.Models.dll
+d:\Git\Feitep\feitep_dotnet_mysql\Feitep.MySql.Models\obj\Debug\net8.0\refint\Feitep.MySql.Models.dll
+d:\Git\Feitep\feitep_dotnet_mysql\Feitep.MySql.Models\obj\Debug\net8.0\Feitep.MySql.Models.pdb
+d:\Git\Feitep\feitep_dotnet_mysql\Feitep.MySql.Models\obj\Debug\net8.0\ref\Feitep.MySql.Models.dll
