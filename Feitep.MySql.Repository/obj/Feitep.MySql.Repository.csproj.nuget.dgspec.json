@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj": {}
+    "D:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj": {}
   },
   "projects": {
-    "d:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
+    "D:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj",
+        "projectUniqueName": "D:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj",
         "projectName": "Feitep.MySql.Models",
-        "projectPath": "d:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj",
+        "projectPath": "D:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj",
         "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-        "outputPath": "d:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Models\\obj\\",
+        "outputPath": "D:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "d:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj": {
+    "D:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
+        "projectUniqueName": "D:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
         "projectName": "Feitep.MySql.Repository",
-        "projectPath": "d:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
+        "projectPath": "D:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
         "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-        "outputPath": "d:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\obj\\",
+        "outputPath": "D:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
-                "projectPath": "d:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj"
+              "D:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
+                "projectPath": "D:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj"
               }
             }
           }
@@ -116,6 +116,10 @@
               "version": "[8.0.15, )"
             },
             "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
               "version": "[8.0.15, )"
             },

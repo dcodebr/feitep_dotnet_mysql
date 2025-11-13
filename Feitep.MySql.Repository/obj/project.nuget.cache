@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iF8z4IpQ6K4=",
+  "dgSpecHash": "Kn4eIVsl/JA=",
   "success": true,
-  "projectFilePath": "d:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
+  "projectFilePath": "D:\\Git\\Feitep\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alex\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\alex\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
